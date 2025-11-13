@@ -110,25 +110,6 @@ AutoPilot is built on a **multi-layered AI architecture** for scalability and mo
 
 ---
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/AutoPilotAI/AutoPilot.git
-cd AutoPilot
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env
-
-# Run the development server
-npm run dev
-```
-
----
-
 ## Usage
 
 1. **Login** to your dashboard.
